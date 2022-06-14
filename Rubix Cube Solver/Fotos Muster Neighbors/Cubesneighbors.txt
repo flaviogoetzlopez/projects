@@ -1,0 +1,20 @@
+The order of the pieces and the north south coordinate is also important. 
+
+
+Frontface, Rechteck: [2][1]
+Neigbors: [1][0:4]
+
+Backface, Rechteck: [0][1]
+Neigbors: [1][0:4]
+
+Leftface, Rechteck: [1][0]
+Neigbors: [0][1], Neigbors: [2][1], Neigbors: [1][0], Neigbors: [1][4]
+
+Downface, Rechteck: [1][1]
+Neigbors: [0][1], Neigbors: [2][1], Neigbors: [1][0], Neigbors: [1][2]
+
+Rightface, Rechteck: [1][2]
+Neigbors: [0][1], Neigbors: [2][1], Neigbors: [1][3], Neigbors: [1][1]
+
+UpfaceRechteck: [1][3]
+Neigbors: [0][1], Neigbors: [2][1], Neigbors: [1][2], Neighbors: [1:0]
